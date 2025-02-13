@@ -1,0 +1,3 @@
+There needs to be some kind of official, objective set of standards for credibility of information, in any form of media.
+
+I feel like I’m constantly hearing people from all political leanings, social demographics, and personalities say thing to the effect of “you can’t believe everything you see or hear”, and the targeting of such criticism swing so often from politicians, to experts, to everyday people, that the end effect is a general feeling that nothing can be trusted. And if something can’t be trusted, it’s too daunting to attempt to figure just how right or wrong it is, so the default alternative for the human mind is to passively assume whichever narrative fits best with our preexisting narrative, especially if it makes us feel good. 
