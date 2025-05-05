@@ -1,4 +1,4 @@
-# Credibility Standards
+# Credibility
 
 There needs to be some kind of official, objective set of standards for credibility of information, in any form of media.
 
@@ -48,7 +48,12 @@ and now they have to decide whether they believe said source, but they don't hav
 People also tend to trust their own experiences, even though it's not especially reliable, but if we can't trust our own experiences, then what's the point in seeking truth?
 But wait, people aren't trying to seek truth, they are seeking things to reenforce their favorite narrative.
 And in most personal narratives, people value being arbiters of "truth", not necessarily objective truth, but sometimes practical, "real" truth.
-So it would be helpful if everyone
+So it would be helpful if everyone could somehow participate in the infrastructure of credibility.
+If everyone used the same tools, they would develop faith in them because they had direct experience with them, 
+and because their own personal, self-glorifying narrative of being guardians of the truth now depends on these tools being solid, 
+even if their perceived adversaries are also using them.
 
+So, to summarize:
+1. Most free floating facts are useless in the presence of controversy.
 
 
