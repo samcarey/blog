@@ -53,7 +53,26 @@ If everyone used the same tools, they would develop faith in them because they h
 and because their own personal, self-glorifying narrative of being guardians of the truth now depends on these tools being solid, 
 even if their perceived adversaries are also using them.
 
-So, to summarize:
-1. Most free floating facts are useless in the presence of controversy.
+To summarize:
+1. Most free floating information is impotent in the presence of controversy.
+1. Information is more reliably believed when it:
+  1. Fits someone's existing narrative
+  1. Feeds someone's self-hero narrative
+  1. Is based on direct experience.
+  1. Is based on experience of a personally trusted source
+
+Another way to look at this is as a cost/gain framework for making choices.
+Consiously or unconciously, people trust info if they gain more by trusting it than it costs them.
+Gains:
+- Satisfies their desire for things to make sense.
+- Makes them a hero.
+- Simplifies things.
+- ...
+  
+Costs:
+- Requires thinking, which is hard and distracts from easier sources of satisfaction
+- Could trigger uncertainty, an uncomfortable transitionary state between belief frameworks
+- Could trigger guilt, which feels bad and may be incompatbile with other things we like.
+- Could trigger a chain reaction of the above.
 
 
