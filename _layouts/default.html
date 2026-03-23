@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      color: #222;
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 2rem 1rem;
+    }
+    header { margin-bottom: 2rem; border-bottom: 1px solid #ddd; padding-bottom: 1rem; }
+    header a { color: inherit; text-decoration: none; }
+    header h1 { font-size: 1.5rem; }
+    nav a { color: #555; font-size: 0.9rem; text-decoration: none; margin-right: 1rem; }
+    nav a:hover { color: #000; }
+    main { margin-bottom: 3rem; }
+    h1, h2, h3 { margin: 1.5rem 0 0.5rem; }
+    h1 { font-size: 1.8rem; }
+    p { margin-bottom: 1rem; }
+    ul, ol { margin: 0 0 1rem 1.5rem; }
+    a { color: #0055aa; }
+    .post-list { list-style: none; padding: 0; }
+    .post-list li { margin-bottom: 1.5rem; }
+    .post-list .title { font-size: 1.2rem; }
+    .post-list .date { color: #888; font-size: 0.85rem; }
+    .post-meta { color: #888; font-size: 0.9rem; margin-bottom: 1.5rem; }
+    footer { border-top: 1px solid #ddd; padding-top: 1rem; color: #888; font-size: 0.8rem; }
+    .draft-badge {
+      background: #f0ad4e;
+      color: #fff;
+      font-size: 0.7rem;
+      padding: 0.15rem 0.4rem;
+      border-radius: 3px;
+      vertical-align: middle;
+      text-transform: uppercase;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+    <nav>
+      <a href="{{ site.baseurl }}/">Posts</a>
+    </nav>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    &copy; {{ 'now' | date: "%Y" }}
+  </footer>
+</body>
+</html>
