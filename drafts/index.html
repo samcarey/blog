@@ -1,0 +1,14 @@
+---
+layout: default
+title: Drafts
+---
+<h2>Drafts</h2>
+<p style="color:#888; font-size:0.9rem;">These posts are works in progress.</p>
+<ul class="post-list">
+  {% for draft in site.drafts %}
+  <li>
+    <a class="title" href="{{ draft.url | prepend: site.baseurl }}">{{ draft.title }}</a>
+    {% if draft.excerpt %}<p>{{ draft.excerpt | strip_html | truncatewords: 30 }}</p>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
