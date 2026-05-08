@@ -1,0 +1,15 @@
+title: Sam Carey Blog
+description: Thoughts on society, ethics, and reform
+baseurl: "/blog"
+url: ""
+
+markdown: kramdown
+
+collections:
+  drafts:
+    output: true
+    permalink: /drafts/:title/
+
+exclude:
+  - README.md
+  - posts/
