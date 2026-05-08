@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Ethics"
 ---
+
+# Ethics
 
 Ethics is a model of how a persons actions affect society and then in turn affect that person.
 This theory does not rely on religion.
