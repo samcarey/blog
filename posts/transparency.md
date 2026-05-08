@@ -1,8 +1,10 @@
+# Transparency
+
 Economic systems built on the idea of “capitalism” are touted as thriving on competition,
 yet as we all know, many companies will use “anti-competitive” tactics to try to win without providing better value to customers.
 
 A huge problem with our economy right now is that no one understands how the prices of the things they want to buy get set.
-When the price of one comparable product is different than another, 
+When the price of one comparable product is different than another,
 it is unclear to consumers whether this is due to:
 
 1. lower profit margins vs. higher profit margins
@@ -17,6 +19,6 @@ Nothing makes me buy a product more enthusiastically as when I know I’m gettin
 
 Opaqueness prevents fair competition and incentivizes overcharging.
 
-It also hides labor exploitation 
+It also hides labor exploitation
 
 Should be a standardized way of tracking and reporting info through the entire supply chain, such that the end consumer can easily view and understand it.

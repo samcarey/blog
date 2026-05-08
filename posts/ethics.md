@@ -1,8 +1,10 @@
+# Ethics
+
 Ethics is a model of how a persons actions affect society and then in turn affect that person.
 This theory does not rely on religion.
 I’m curious if it can be contradicted by examples.
 
-To expand upon the theory: When someone considers whether something ought to be done “for ethical reasons”, if they don’t have some predetermined set of rules to default to, they tend to think or feel out the decision in terms of “would I rather  live in a world where people A or people B” where A and B are their options. 
+To expand upon the theory: When someone considers whether something ought to be done “for ethical reasons”, if they don’t have some predetermined set of rules to default to, they tend to think or feel out the decision in terms of “would I rather live in a world where people A or people B” where A and B are their options.
 This implies they expect their choice to ultimately affect “the world” or at least their local environment.
 Then, they think the effect on the world might ultimately affect them in turn, directly or indirectly.
 This might just mean that they feel good or bad knowing what effect it’s having on others.

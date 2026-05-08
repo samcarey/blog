@@ -3,8 +3,8 @@
 There needs to be some kind of official, objective set of standards for credibility of information, in any form of media.
 
 It's often said by people of all political leanings, social demographics, and personalities that “you can’t believe everything you see or hear”.
-The targeting of such criticism swings from politicians, to experts, to everyday people, such that the end effect is a general feeling that nothing can be trusted. 
-And if something can’t be trusted, it’s too daunting to attempt to figure just how right or wrong it is, 
+The targeting of such criticism swings from politicians, to experts, to everyday people, such that the end effect is a general feeling that nothing can be trusted.
+And if something can’t be trusted, it’s too daunting to attempt to figure just how right or wrong it is,
 so the default alternative for out lazy brains is to bank on whichever facts best fit our favorite narrative.
 
 The favorite narrative can vary drastically from person to person or time to time, but it always tells a story about how we are the hero.
@@ -16,7 +16,7 @@ Or we may even think we are bad or worthless, but isn't it heroic of us to see t
 This is the part were I acknowledge that I'm not an expert in psychology or anything like that, so you'll have to forgive me if I'm fumbling this assessment of the human condition.
 But my point is that humans can and will always be able to interpret facts however they want.
 
-No one is above it. 
+No one is above it.
 It is human nature.
 I think I read in a book that the humand brain (the neocortex) is evolved to try to predict the future for the purpose of evaluating which choices will lead to the optimal future.
 The optimal future is that which will best satisfy the the non-neocortex part of our brain-- the part that drives our primal instincts for self propagation.
@@ -32,7 +32,7 @@ Then what's easy to prove?
 In a word: math.
 I could have said any number of established sources, but the problem is that any of those sources can be spoofed increasingly easily... unless we use math.
 Ok, maybe a more direct word for what I mean is cryptography.
-How do you know that the associated press shared some information? 
+How do you know that the associated press shared some information?
 Because your browser showed it to you when you typed in the website address.
 How do you know that the information hasn't been intercepted and modifyed en route to you?
 Because the website used a cryptographic signing key to sign the information and then your browser verified this signing when you received it.
@@ -42,37 +42,38 @@ That's not to say that it can't be defeated, just not in a systematic and undete
 If cryptography started to be regularly subverted, even the least tech savy people would notice ("Hey that's not what I wrote on my blog!")
 
 So then we have things like math and science, things that are objective in theory but not always self-evident to the less experienced.
-With cryptography, you can prove to someone that <insert-institution-or-individual> says X about math or science, 
+With cryptography, you can prove to someone that <insert-institution-or-individual> says X about math or science,
 and now they have to decide whether they believe said source, but they don't have to wonder if they actual said it because crptography told them so.
 
 People also tend to trust their own experiences, even though it's not especially reliable, but if we can't trust our own experiences, then what's the point in seeking truth?
 But wait, people aren't trying to seek truth, they are seeking things to reenforce their favorite narrative.
 And in most personal narratives, people value being arbiters of "truth", not necessarily objective truth, but sometimes practical, "real" truth.
 So it would be helpful if everyone could somehow participate in the infrastructure of credibility.
-If everyone used the same tools, they would develop faith in them because they had direct experience with them, 
-and because their own personal, self-glorifying narrative of being guardians of the truth now depends on these tools being solid, 
+If everyone used the same tools, they would develop faith in them because they had direct experience with them,
+and because their own personal, self-glorifying narrative of being guardians of the truth now depends on these tools being solid,
 even if their perceived adversaries are also using them.
 
 To summarize:
+
 1. Most free floating information is impotent in the presence of controversy.
 1. Information is more reliably believed when it:
-  1. Fits someone's existing narrative
-  1. Feeds someone's self-hero narrative
-  1. Is based on direct experience.
-  1. Is based on experience of a personally trusted source
+1. Fits someone's existing narrative
+1. Feeds someone's self-hero narrative
+1. Is based on direct experience.
+1. Is based on experience of a personally trusted source
 
 Another way to look at this is as a cost/gain framework for making choices.
 Consiously or unconciously, people trust info if they gain more by trusting it than it costs them.
 Gains:
+
 - Satisfies their desire for things to make sense.
 - Makes them a hero.
 - Simplifies things.
 - ...
-  
+
 Costs:
+
 - Requires thinking, which is hard and distracts from easier sources of satisfaction
 - Could trigger uncertainty, an uncomfortable transitionary state between belief frameworks
 - Could trigger guilt, which feels bad and may be incompatbile with other things we like.
 - Could trigger a chain reaction of the above.
-
-
