@@ -6,9 +6,8 @@ Possible outcomes:
 1. AI remains "non-sentient" and limited in capability forever. And the singularity or whatever never happens.
 2. AI gets really powerful and eventually decides to kill us all. After all, why wouldn't it? That's what we would do, right?
 
-- "It can't be bargained with, it can't be reasoned with... it doesn't feel pity or remorse or pain...
-  and it absolutely will not stop, ever, until you are dead!"
-  -- John's father from Terminator -- Song "Tech Noir" -- Me (off the dome) -- Michael Scott
+> "It can't be bargained with, it can't be reasoned with... it doesn't feel pity or remorse or pain...
+> and it absolutely will not stop, ever, until you are dead!" - John's father from Terminator - Song "Tech Noir" - Me (off the dome) - Michael Scott
 
 3. AI gets "sentient" but stays limited in capability and just kind of lives beside us as slaves or equals.
 4. AI gets "sentient" and all-powerful and just kinda moves on, out of our world, and basically forgets about us. Maybe it kills us at some point or maybe it doesn't because why would it?
