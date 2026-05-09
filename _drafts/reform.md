@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Reform"
 ---
+
+# Reform
 
 I hear "solutions" all the time.
 Solutions for environmental problems.

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Suffering"
 ---
+
+# Suffering
 
 See ethics post.
 

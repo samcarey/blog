@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Transparency"
 ---
+
+# Transparency
 
 Economic systems built on the idea of "capitalism" are touted as thriving on competition,
 yet as we all know, many companies will use "anti-competitive" tactics to try to win without providing better value to customers.

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Credibility"
 ---
+
+# Credibility
 
 There needs to be some kind of official, objective set of standards for credibility of information, in any form of media.
 
